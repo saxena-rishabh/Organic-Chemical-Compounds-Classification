@@ -7,6 +7,8 @@ Our task is to build a classification model on the given data using any Deep Lea
 
 ## Our Solution  
 We are able to reach 100% accuracy using little feature engineering like label encoding and applying standard scaler and using only 2 hidden layers and 50 epochs in the ANN.  
-Follwing is our Neural Network architechure:
+Follwing is our Neural Network architechure:  
+![model_plot](https://user-images.githubusercontent.com/40590709/70861680-af301080-1f57-11ea-99bd-96ece65e640a.png)
+
 
 
